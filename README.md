@@ -1,5 +1,4 @@
 ### Hi there 👋
-![]
 
 Throughout my student and professional life, I have discovered the potential of the world of data analysis and statistics as a crucial foundation in a multitude of fields, from scientific to financial. I began to specialize in data analysis at university while studying Chemical Engineering, and throughout my professional career, I have been expanding this practice to other business areas.
 
