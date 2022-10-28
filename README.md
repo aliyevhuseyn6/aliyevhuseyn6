@@ -1,30 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Huseyn Aliyev
+#### SQL | Python | R | MS Excel | Power BI | Tableau
+![SQL | Python | R | MS Excel | Power BI | Tableau](https://pbs.twimg.com/profile_banners/1259409528522760192/1665782239/1500x500)
 
-<!--
-**aliyevhuseyn6/aliyevhuseyn6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Throughout my student and professional life, I have discovered the potential of the world of data analysis and statistics as a crucial foundation in a multitude of fields, from scientific to financial. I began to specialize in data analysis at university while studying Chemical Engineering, and throughout my professional career, I have been expanding this practice to other business areas.
+Kindly invite you to visit my portfolio projects.
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+Skills: SQL / Python / R / MS Excel / Power BI / Tableau
+
+- 🔭 I’m currently working on this page. 
 
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
