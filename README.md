@@ -2,9 +2,11 @@
 
 Throughout my student and professional life, I have discovered the potential of the world of data analysis and statistics as a crucial foundation in a multitude of fields, from scientific to financial. I began to specialize in data analysis at university while studying Chemical Engineering, and throughout my professional career, I have been expanding this practice to other business areas.
 
-Kindly invite you to visit my portfolio projects. Thanks for your time and consideration!
+Kindly invite you to visit my portfolio projects. 
 
-- 📫 How to reach me: You can reach me at: [aliyevhuseyn6@gmail.com] 
+Thanks for your time and consideration!
+
+- 📫 You can reach me at: [aliyevhuseyn6@gmail.com](aliyevhuseyn6@gmail.com)
 
 
 Skills: SQL / Python / R / MS Excel / Power BI / Tableau
