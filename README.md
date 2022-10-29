@@ -4,6 +4,9 @@ Throughout my student and professional life, I have discovered the potential of 
 
 Kindly invite you to visit my portfolio projects. Thanks for your time and consideration!
 
+- 📫 How to reach me: You can reach me at: [aliyevhuseyn6@gmail.com] 
+
+
 Skills: SQL / Python / R / MS Excel / Power BI / Tableau
 
 
