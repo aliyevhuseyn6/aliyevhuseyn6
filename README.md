@@ -6,7 +6,7 @@ Kindly invite you to visit my portfolio projects.
 
 Thanks for your time and consideration!
 
-- 📫 You can reach me at: [aliyevhuseyn6@gmail.com](mailto:aliyevhuseyn6@gmail.com)
+- 📫 You can reach me anytime via: [aliyevhuseyn6@gmail.com](mailto:aliyevhuseyn6@gmail.com)
 
 
 Skills: SQL / Python / R / MS Excel / Power BI / Tableau
